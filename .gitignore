@@ -1,2 +1,4 @@
-auto.sh
-export_chrome_bookmarks.py
+*
+!index.html
+!.gitignore
+!README.MD
