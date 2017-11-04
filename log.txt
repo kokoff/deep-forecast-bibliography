@@ -1,4 +1,0 @@
-[master 84b71ad] Test commit
- 2 files changed, 1 insertion(+)
- create mode 100644 cronjob.txt
- create mode 100644 log.txt
