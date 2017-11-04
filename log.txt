@@ -1,3 +1,0 @@
-[master 12205f3] Test commit
- 1 file changed, 1 deletion(-)
- delete mode 100644 somefile.txt
