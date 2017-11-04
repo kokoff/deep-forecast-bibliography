@@ -1,0 +1,1 @@
+1 * * * * /home/skokov/reading_list/auto.sh
