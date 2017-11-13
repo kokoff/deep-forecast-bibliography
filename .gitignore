@@ -1,4 +1,9 @@
 *
-!index.html
+!zotero-bib.html
 !.gitignore
 !README.MD
+!site/
+!site/*
+!files/
+!files/*
+!files/*/*
